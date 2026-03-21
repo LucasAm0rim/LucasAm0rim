@@ -32,27 +32,6 @@ My background combines **statistics, programming, and economic theory** to trans
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
-
-🔹 **Macroeconomic Dashboard**  
-Analysis of indicators such as interest rates, inflation, and GDP using Central Bank data.
-
-🔹 **Exploratory Data Analysis (EDA)**  
-Data cleaning, visualization, and insight generation from real-world datasets.
-
-🔹 **Predictive Models (in progress)**  
-Regression and machine learning models applied to economic and financial forecasting.
-
 
 <!--
 **LucasAm0rim/LucasAm0rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
