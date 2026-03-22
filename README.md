@@ -16,7 +16,6 @@ My background combines **statistics, programming, and economic theory** to trans
 
 **Data-driven Problem Solving:** Applying analytical thinking and quantitative methods to solve real-world problems  
 
----
 
 ## 🛠️ Tech Stack
 
