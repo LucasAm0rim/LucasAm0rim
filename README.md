@@ -6,11 +6,15 @@ My background combines **statistics, programming, and economic theory** to trans
 
 ## 🧠 Current Focus
 
-- 📈 Data Analysis applied to Finance  
-- 📊 Statistics & Econometrics  
-- 🤖 Machine Learning  
-- 💹 Macroeconomic Indicators  
-- 🧩 Data-driven problem solving  
+**Data Analysis applied to Finance:** Working with financial datasets, extracting insights, and supporting data-driven decision-making  
+
+**Statistics & Econometrics:** Statistical inference, hypothesis testing, and regression analysis applied to economic problems  
+
+**Machine Learning:** Supervised learning, model evaluation, and basic predictive modeling techniques  
+
+**Macroeconomic Analysis:** Interpretation of economic indicators such as inflation, interest rates, and GDP trends  
+
+**Data-driven Problem Solving:** Applying analytical thinking and quantitative methods to solve real-world problems  
 
 ---
 
